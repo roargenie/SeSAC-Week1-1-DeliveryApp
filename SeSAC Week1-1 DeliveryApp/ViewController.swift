@@ -19,6 +19,13 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
+        print(11)
+        print(22)
+        print(33)
+        
+        print(4)
+        print(5)
+        print(10)
         
         
         
