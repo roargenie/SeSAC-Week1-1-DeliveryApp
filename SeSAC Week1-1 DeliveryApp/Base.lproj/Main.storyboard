@@ -18,7 +18,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="OUt-1X-gQs">
-                                <rect key="frame" x="10" y="54" width="394" height="769"/>
+                                <rect key="frame" x="10" y="54" width="394" height="788"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="9ou-Nr-0ir">
                                         <rect key="frame" x="34.5" y="289" width="325" height="410"/>
@@ -402,7 +402,6 @@
                                     <constraint firstItem="9ou-Nr-0ir" firstAttribute="top" secondItem="MIa-Nt-mKE" secondAttribute="bottom" constant="30" id="Sjj-2e-Qkn"/>
                                     <constraint firstItem="65U-6d-fqJ" firstAttribute="top" secondItem="OUt-1X-gQs" secondAttribute="top" constant="10" id="eIm-yC-i8M"/>
                                     <constraint firstItem="9ou-Nr-0ir" firstAttribute="centerX" secondItem="OUt-1X-gQs" secondAttribute="centerX" id="lxx-Ea-bzS"/>
-                                    <constraint firstAttribute="bottom" secondItem="9ou-Nr-0ir" secondAttribute="bottom" constant="70" id="pYw-hl-q5k"/>
                                     <constraint firstItem="MIa-Nt-mKE" firstAttribute="centerX" secondItem="OUt-1X-gQs" secondAttribute="centerX" id="uL0-uy-ZLK"/>
                                     <constraint firstItem="MIa-Nt-mKE" firstAttribute="top" secondItem="65U-6d-fqJ" secondAttribute="bottom" constant="15" id="vFS-Pv-QbV"/>
                                     <constraint firstAttribute="trailing" secondItem="MIa-Nt-mKE" secondAttribute="trailing" constant="13" id="wlS-zc-D0h"/>
